@@ -1,22 +1,22 @@
-- 👋 Introduction<br>
-"Hello! I'm @msualp, the visionary behind Sociail, where we're pioneering new ways to integrate AI with human collaboration."
+#### 👋 Introduction
+"Hello! I'm @msualp, the visionary behind [Sociail](https://www.sociail.com/), where we're pioneering new ways to integrate AI with human collaboration."
 
-- 👀 Interests<br>
+#### 👀 Interests
 "Passionate about transforming how we work together through AI, focusing on creating intuitive, collaborative environments that enhance human productivity and creativity."
 
-- 🌱 Learning<br>
+#### 🌱 Learning
 "Currently diving deep into LangGraph to explore complex language models and their potential to reshape communication."
 
-- 💞️ Collaboration<br>
+#### 💞️ Collaboration
 "Eager to collaborate with innovative thinkers and tech enthusiasts who are driven to push the boundaries of AI technology and its applications."
 
-- 📫 Contact<br>
+#### 📫 Contact
 "Reach out to me at msualp@sociail.com to discuss AI collaborations or just to exchange ideas about the future of tech!"
 
-- 😄 Pronouns<br>
+#### 😄 Pronouns
 "He/Him – I believe in fostering an inclusive and respectful community."
 
-- ⚡ Fun Fact<br>
+#### ⚡ Fun Fact
 "Proud dad to an energetic 11-month-old who's likely the youngest AI enthusiast I know!"
 
 <!---
