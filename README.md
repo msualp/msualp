@@ -2,7 +2,7 @@
 "Hello! I'm @msualp, the visionary behind Sociail, where we're pioneering new ways to integrate AI with human collaboration."
 
 - 👀 Interests<br>
-"Passionate about transforming how we work together through AI, focusing on creating intuitive, collaborative environments that enhance productivity and creativity."
+"Passionate about transforming how we work together through AI, focusing on creating intuitive, collaborative environments that enhance human productivity and creativity."
 
 - 🌱 Learning<br>
 "Currently diving deep into LangGraph to explore complex language models and their potential to reshape communication."
