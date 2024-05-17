@@ -12,6 +12,8 @@
 
 **⚡ Fun Fact:** "Proud dad to an energetic 11-month-old who's likely the youngest AI enthusiast I know!"
 
+...and yes, I am with the resistance.
+
 
 <!---
 msualp/msualp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
