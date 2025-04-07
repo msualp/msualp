@@ -10,7 +10,7 @@
 
 **😄 Pronouns:** "He/Him – I believe in fostering an inclusive and respectful community."
 
-**⚡ Fun Fact:** "Proud dad to an energetic 11-month-old who's likely the youngest AI enthusiast I know!"
+**⚡ Fun Fact:** "Proud dad to an energetic toddler who's likely the youngest AI enthusiast I know!"
 
 ...and yes, I am with the resistance.
 
