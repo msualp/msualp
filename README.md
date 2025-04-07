@@ -14,6 +14,8 @@
 
 ...and yes, I am with the resistance.
 
+<img width="925" alt="Photos 2025-04-07 09 58 54" src="https://github.com/user-attachments/assets/4c1ddeaa-e8dd-4460-80ef-39abe2f7a35b" />
+
 
 <!---
 msualp/msualp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
