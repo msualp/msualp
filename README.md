@@ -1,4 +1,4 @@
-**👋 Introduction:** "Hello! I'm @msualp, serial tech entrepreneur, investor, and the visionary behind [Sociail](https://www.sociail.com/), where we're pioneering shared intelligence for human and AI collaboration."
+**👋 Introduction:** "Hello! I'm @msualp, serial tech entrepreneur, investor, and the visionary behind [Sociail](https://www.github.com/sociail), where we're pioneering shared intelligence for human and AI collaboration."
 
 **👀 Interests:** "Passionate about transforming how we work together through AI, focusing on creating intuitive, collaborative environments that enhance human productivity and creativity."
 
