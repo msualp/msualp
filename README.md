@@ -1,23 +1,33 @@
-**👋 Introduction:** "Hello! I'm @msualp, serial tech entrepreneur, investor, and the visionary behind [Sociail](https://www.github.com/sociail), where we're pioneering shared intelligence for human and AI collaboration."
+# Mustafa Sualp
 
-**👀 Interests:** "Passionate about transforming how we work together through AI, focusing on creating intuitive, collaborative environments that enhance human productivity and creativity."
+Founder & CEO at [Sociail](https://www.sociail.com), building shared AI workspaces where people and room-aware AI agents work from the same context.
 
-**🌱 Learning:** "Currently diving deep into LangGraph to explore complex language models and their potential to reshape communication."
+Before Sociail, I led AEFIS as CEO through growth and acquisition by HelioCampus in 2021. That operating history shapes how I think about AI: useful systems need context, boundaries, accountability, and a workflow that teams can trust.
 
-**💞️ Collaboration:** "Eager to collaborate with innovative thinkers and tech enthusiasts who are driven to push the boundaries of AI technology and its applications."
+## What I Am Building
 
-**📫 Contact:** "Reach out to me at msualp@sociail.com to discuss AI collaborations or just to exchange ideas about the future of tech!"
+Sociail brings AI out of private tabs and into shared rooms.
 
-**😄 Pronouns:** "He/Him – I believe in fostering an inclusive and respectful community."
+The product is designed around people, AI teammates, chat, video, artifacts, decisions, and receipts staying connected in one workspace. The goal is not a smarter sidebar. The goal is AI participation that is visible, reviewable, and useful to the team.
 
-**⚡ Fun Fact:** "Proud dad to an energetic toddler who's likely the youngest AI enthusiast I know!"
+## Technical Focus
 
-> <img width="925" alt="Photos 2025-04-07 09 58 54" src="https://github.com/user-attachments/assets/4c1ddeaa-e8dd-4460-80ef-39abe2f7a35b" />
-> Where vision meets execution. Building the future of AI isn't just about ideas — it's about putting in the hours at the command line... with a side of Nutella for brain fuel.
+- Shared context and memory for collaborative work
+- Role-aware AI agents with explicit boundaries
+- Approval-first actions for consequential work
+- Browser-control and local-agency workflows with guardrails
+- Trust ledgers, receipts, and durable artifacts
+- Infrastructure-as-conversation and operator-grade automation
 
-...and yes, I am with the resistance.
+## Current Posture
 
-<!---
-msualp/msualp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most active Sociail engineering work is private while we move through invite-led Early Access. The public GitHub surface is intentionally light, but the technical direction is clear: build AI systems that participate in real work without hiding context, authorship, or accountability.
+
+## Links
+
+- [Sociail](https://www.sociail.com)
+- [Sociail on GitHub](https://github.com/sociail)
+- [Founder story](https://www.sualp.com/sociail/)
+- [LinkedIn](https://www.linkedin.com/in/sualp/)
+
+If Sociail's bet resonates, start with [Early Access](https://www.sociail.com/early-access) or [Careers](https://www.sociail.com/careers).
